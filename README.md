@@ -33,7 +33,7 @@ Building a **lightweight, cost-effective SIEM (Security Information and Event Ma
 `Python` · `C#` · `Java` · `JavaScript` · `HTML` · `CSS` · `C` · `C++` · `PHP` · `SQL` · `JSON` · `XML` · `Assembly`
 
 **Frameworks & Tools:**  
-`JUnit`· `TestNG`  · `Bootstrap` · `LangFlow` · `ASP.NET` · `WAMP Server` · `Cisco Packet Tracer` · `Cisco Packet Tracer`   
+`JUnit`· `TestNG`  · `Bootstrap` · `LangFlow` · `ASP.NET` · `WAMP Server` · `Cisco Packet Tracer`  
 
 **Databases:**  
 `MySQL` · `Microsoft SQL Server` . `MongoDB`
