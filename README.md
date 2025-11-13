@@ -30,19 +30,19 @@ Building a **lightweight, cost-effective SIEM (Security Information and Event Ma
 ## 🛠️ Technical Skills  
 
 **Programming & Scripting:**  
-`Python` · `C#` · `Java` · `JavaScript` · `HTML` · `CSS` · `SQL`
+`Python` · `C#` · `Java` · `JavaScript` · `HTML` · `CSS` · `C` · `C++` · `PHP` · `SQL` · `JSON` · `XML` · `Assembly`
 
 **Frameworks & Tools:**  
-`JUnit` · `Bootstrap` · `LangFlow` · `ASP.NET` · `WAMP Server` · `Cisco Packet Tracer`  
+`JUnit`· `TestNG`  · `Bootstrap` · `LangFlow` · `ASP.NET` · `WAMP Server` · `Cisco Packet Tracer` · `Cisco Packet Tracer`   
 
 **Databases:**  
-`MySQL` · `Microsoft SQL Server`
+`MySQL` · `Microsoft SQL Server` . `MongoDB`
 
 **Cyber & Testing Tools:**  
-`FTK Imager` · `Wireshark` · `Metasploit` (learning) · `Burp Suite` (basics)
+`FTK Imager` · `Wireshark` · `Metasploit` · `Burp Suite`
 
 **Others:**  
-`MATLAB` · `Git` · `GitHub` · `VS Code` · `Visual Studio`
+`MATLAB` · `Git` · `GitHub` · `VS Code` · `Visual Studio` · `IntelliJ IDEA`
 
 ---
 
@@ -81,8 +81,8 @@ A cost-effective, resource-efficient **Security Information and Event Management
 ## 📫 Connect With Me  
 
 🌐 **GitHub:** [github.com/AzeemHusain123](https://github.com/AzeemHusain123)  
-💼 **LinkedIn:** [linkedin.com/in/azeemhusain123](https://linkedin.com/in/azeemhusain123)  
-📧 **Email:** azeemhusain123@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/azeemhusain123](https://www.linkedin.com/in/azeemhusain/)  
+📧 **Email:** azeem4work@gmail.com
 
 ---
 
