@@ -97,7 +97,6 @@ A cost-effective, resource-efficient **Security Information and Event Management
 | [InsightPro – Admin Dashboard](https://github.com/AzeemHusain123/insightpro-responsive-admin-dashboard) | Fully responsive admin dashboard built with pure HTML & CSS — zero frameworks | HTML, CSS |
 | [Real-Time Collaborative Task Manager](https://github.com/AzeemHusain123/realtime-collaborative-task-manager) | LocalStorage-based task manager simulating real-time collaboration and multi-user updates | HTML, CSS, JS, Bootstrap |
 | [University Website Clone](https://github.com/AzeemHusain123/university-website-clone) | Static multi-page university website clone demonstrating core frontend skills | HTML, CSS, JS |
-| Numerical Computation – Fluid Flow Solver | Pipe network fluid flow simulation using the Newton-Raphson iterative method | MATLAB |
 
 > 📌 **More projects being added regularly** — visit my [repositories tab](https://github.com/AzeemHusain123?tab=repositories) for the latest updates!
 
